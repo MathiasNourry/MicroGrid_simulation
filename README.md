@@ -2,7 +2,9 @@
 <img src="img/global_picture.png" width="600" height="250" />
 </p>
 
-# Reinforcement learning approach for MicroGrid energy supply
+<h1 align="center">
+    Reinforcement learning approach for MicroGrid energy supply
+</h1>
 
 ## Team and project overview 
 
